@@ -1,0 +1,29 @@
+.image-gallery-right-nav .image-gallery-svg {
+    height: 120px;
+    width: 23px;
+    position: relative;
+    bottom: 50px;
+    color: white !important;
+    
+}
+.image-gallery-left-nav .image-gallery-svg, .image-gallery-right-nav .image-gallery-svg {
+    height: 120px;
+    width: 23px;
+    position: relative;
+    bottom: 50px;
+    color: white !important;
+  
+}
+
+.image-gallery-left-nav, .image-gallery-right-nav {
+    padding: 16px 10px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.image-gallery-left-nav, .image-gallery-right-nav{
+    background: #b8b5b5;
+    height: 50px;
+   
+    
+}

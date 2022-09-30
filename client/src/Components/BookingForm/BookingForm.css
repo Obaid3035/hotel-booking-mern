@@ -1,0 +1,101 @@
+
+.react-datepicker__input-container input{
+    width: 100% !important;
+    margin-bottom: 5px;
+}
+
+.form-select {
+    width: 100%;
+    margin-top: 10px;
+    height: 36px;
+}
+
+.dates_section {
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 10px 10px;
+}
+
+.color {
+    color: #00aa6c;
+    font-family: Montserrat;
+}
+.payment {
+    color: #00aa6c;
+    font-family: Montserrat;
+    font-family: 11px;
+}
+
+.Rate {
+    justify-content: space-between;
+}
+
+.reserved {
+    color: #00aa6c;
+    font-size: 15px !important;
+    font-family: Montserrat;
+    font-weight: 600;
+}
+
+.reserved_price {
+    color: #00aa6c;
+    font-size: 45px !important;
+    font-weight: bold;
+    font-family: Montserrat;
+}
+.booknow_btn {
+    width: 100%;
+    height: 35px;
+    background-color: #f5bd1f;
+    font-family: Montserrat;
+    border-radius: 12px;
+    border-color: #f2b203;
+    background-color: #f2b203;
+    font-size: 13px;
+    font-weight: bold;
+    color: #000;
+}
+
+.sendMsg_btn {
+    width: 100%;
+    height: 35px;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: Montserrat;
+    border-color: #000;
+    border: 1px solid #000;
+    border-radius: 3px;
+    background-color: #fff;
+    color: #000;
+}
+
+.payment_protection {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.House_Rules_Container {
+    background-color: white;
+    padding: 0px 20px 20px;
+    height: 100%;
+}
+
+.house_rules {
+    justify-content: space-between;
+}
+
+.overview {
+    font-weight: bold;
+    font-size: 22px;
+    padding-top: 14px;
+    font-family: sans-serif !important;
+}
+
+.text {
+    font-family: Montserrat;
+}
+
+.minimum_stay{
+    color: orange;
+}

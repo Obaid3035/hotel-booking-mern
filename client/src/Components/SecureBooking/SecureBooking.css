@@ -1,0 +1,115 @@
+.Main_Container {
+    background-color: rgb(241, 241, 241);
+    padding: 10px 50px;
+    font-family: Montserrat;
+}
+
+.Sign_Container {
+    background-color: white;
+    padding: 20px 25px;
+    height: 70px;
+    font-weight: lighter;
+}
+
+.form_container {
+    background-color: white;
+    padding: 10px 20px;
+}
+
+.booking_signin {
+    border-radius: 20px;
+    width: 120px;
+    height: 40px;
+    background-color: white;
+}
+
+@media (max-width: 375px) {
+    .text_wrap {
+        display: none;
+    }
+}
+
+.text-gray {
+    color: grey;
+}
+
+.total {
+    justify-content: space-between;
+}
+
+.values {
+    background-color: rgb(241, 241, 241);
+    font-size: 12px;
+    color: grey;
+    margin-top: 10px;
+    padding: 10px 20px;
+}
+.max {
+    background-color: rgb(241, 241, 241);
+    margin-top: 10px;
+    padding: 10px 20px;
+}
+
+.max_stored{
+    font-size: 11px !important;
+}
+
+.max-damage{
+    font-size: 11px;
+}
+
+.title_arrow_number{
+    margin-right: 15px;
+    margin-bottom: 5px;
+    font-weight: bolder;
+    font-size: 24px;
+    float: left;
+    height: 28px;
+    line-height: 30px;
+    width: 32px;
+    color: #fff;
+    text-align: center;
+    background: #00aa6c;
+    display: inline-block;
+    position: relative;
+}
+
+.color_red{
+    color: rgb(204, 26, 26);
+}
+
+.lock_icon{
+    font-size: 30px;
+    position: relative;
+    bottom: 2px;
+    color: grey;
+}
+
+
+.book_now{
+    background-color: #f5bd1f;
+    font-size: 15px;
+    width: 250px;
+    border-radius: 20px;
+    font-weight: bold;
+    border: none;
+    color:black;
+    font-family: Montserrat
+}
+
+.review_book_container{
+    background-color: white;
+    padding: 10px 30px;
+    width: 100%;
+}
+
+.booking_text_container{
+    padding: 10px 3px ;
+}
+
+.booking_lock_icon{
+    position: relative;
+    left: 50px;
+    bottom: 2px;
+}
+

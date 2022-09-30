@@ -1,0 +1,147 @@
+.Booking_Complete_Main {
+    background-color: rgb(241, 241, 241);
+    padding-bottom: 20px;
+}
+
+.check_in_container {
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+
+.date_container {
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+
+.Booking_container {
+    background-color: white;
+    padding: 10px 20px;
+}
+
+.total {
+    justify-content: space-between;
+}
+
+.values {
+    background-color: rgb(241, 241, 241);
+    font-size: 12px;
+    color: grey;
+    margin-top: 10px;
+    padding: 10px 20px;
+}
+.max {
+    background-color: rgb(241, 241, 241);
+    margin-top: 10px;
+    padding: 10px 20px;
+}
+
+.max_stored {
+    font-size: 11px !important;
+}
+
+.max-damage {
+    font-size: 11px;
+}
+
+.House_container {
+
+    background-color: white;
+    padding: 10px 20px;
+}
+
+.payment_container {
+
+    background-color: white;
+    padding: 10px 20px;
+}
+
+.color_red {
+    color: rgb(207, 24, 24);
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+.Booking_complete_card{
+    margin-top: 10px !important;
+}
+
+.cancellation_container{
+    background-color:white;
+    padding: 10px 20px;
+    height: 150px
+}
+
+
+.cancellation_inner_container{
+    padding: 30px 20px;
+}
+
+.refundable_container{
+    background-color:white;
+    padding: 10px 20px;
+   
+}
+
+.Logo_main{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.logo_inner_container{
+    background-color: rgb(29, 33, 90);
+    width: 100px;
+    height: 50px;
+}
+
+.wise_logo{
+    position: relative;
+    top: 5px;
+}
+
+.wise_text{
+    position: relative;
+    left: 110px;
+    bottom: 10px;
+    color: blue;
+    font-size: 15px;
+}
+
+.pay_now_revolt{
+    position: relative;
+    left: 110px;
+    bottom: 10px;
+    color: red;
+    font-size: 15px;
+}
+
+.booking_container_btn{
+    display: flex;
+    gap: 10px;
+  
+}
+
+.download_btn{
+    background-color: black;
+    height: 50px;
+    font-size: 10px;
+    width: 100%;
+    color: white;
+    border: none;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.confirm_payment_btn{
+    background-color: black;
+    color: white;
+    border: none;
+    height: 50px;
+    font-size: 10px;
+    width: 100%;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+

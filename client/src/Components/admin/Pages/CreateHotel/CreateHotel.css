@@ -1,0 +1,15 @@
+.create_form {
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #ced4da;
+}
+
+.create_form div {
+    margin: 3px 0 5px 0;
+}
+
+.create_form div label {
+    font-size: 14px;
+    font-weight: 500;
+    color: #43425D
+}

@@ -1,0 +1,27 @@
+.Links_Container{
+  gap: 12px;
+}
+
+
+.footer_img {
+  position: absolute;
+  top: 9px;
+  right: -14px;
+}
+
+.border_bottom{
+  border-bottom: 1px solid grey;
+}
+
+.main_links{
+  padding: 10px 20px;
+}
+
+#footer_input{
+  width: 100% !important;
+}
+
+.Footer_background{
+  background-color: #faeeed;
+
+}
